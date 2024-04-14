@@ -33,3 +33,18 @@
 
 ### Lab5Final 
 
+IHeadphones: Це інтерфейс, який визначає метод GetDescription(), що повертає опис навушників.
+
+IHeadphonesFactory: Інтерфейс, який визначає метод CreateHeadphones(), який повертає об'єкт навушників.
+
+WiredHeadphones: Конкретний клас, який реалізує інтерфейс IHeadphones. Він надає реалізацію методу GetDescription(), що повертає рядок, що описує провідні навушники.
+
+WiredHeadphonesFactory: Конкретний клас фабрики, який реалізує інтерфейс IHeadphonesFactory. Він надає реалізацію методу CreateHeadphones(), що повертає об'єкт провідних навушників.
+
+WirelessHeadphones: Ще один конкретний клас, який реалізує інтерфейс IHeadphones. Він має метод GetDescription(), який повертає рядок, що описує безпровідні навушники.
+
+WirelessHeadphonesFactory: Конкретний клас фабрики для безпровідних навушників. Реалізує інтерфейс IHeadphonesFactory і надає метод CreateHeadphones(), який створює об'єкт безпровідних навушників.
+
+#### UML-діаграма
+
+![UML-діаграма](https://github.com/Marian-Zharchynskyi/05-abstract-factory-Marian-Zharchynskyi/blob/main/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-04-14%20095134.png)
