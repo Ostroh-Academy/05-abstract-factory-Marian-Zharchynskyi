@@ -1,0 +1,14 @@
+D:\ОА\Патерни проектування\Patterns\Lab5Final\bin\Debug\net8.0\Lab5Final.exe
+D:\ОА\Патерни проектування\Patterns\Lab5Final\bin\Debug\net8.0\Lab5Final.deps.json
+D:\ОА\Патерни проектування\Patterns\Lab5Final\bin\Debug\net8.0\Lab5Final.runtimeconfig.json
+D:\ОА\Патерни проектування\Patterns\Lab5Final\bin\Debug\net8.0\Lab5Final.dll
+D:\ОА\Патерни проектування\Patterns\Lab5Final\bin\Debug\net8.0\Lab5Final.pdb
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\Lab5Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\Lab5Final.AssemblyInfoInputs.cache
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\Lab5Final.AssemblyInfo.cs
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\Lab5Final.csproj.CoreCompileInputs.cache
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\Lab5Final.dll
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\refint\Lab5Final.dll
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\Lab5Final.pdb
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\Lab5Final.genruntimeconfig.cache
+D:\ОА\Патерни проектування\Patterns\Lab5Final\obj\Debug\net8.0\ref\Lab5Final.dll
